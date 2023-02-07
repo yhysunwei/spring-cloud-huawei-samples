@@ -4,7 +4,7 @@ This project provide samples for Spring Cloud Huawei. Read each sub-project and
 
 Directory description:
 
-- basic：This project providers sample to show working with Spring Cloud Microservices. 
+- basic：This project providers sample to show working with Spring Cloud Microservices. 1
   
 - basic-tomcat：This project provides a simple example of a Spring Boot application running on a standalone Tomcat
 
